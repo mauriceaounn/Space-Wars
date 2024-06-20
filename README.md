@@ -1,5 +1,5 @@
 # Space-Wars
-Space Wars is a space game where astronauts collect gems on a planet and use the gems to buy weapons and fight each other. The more gems you collect the higher ranked weapon you get. You can as well change you space suit. The last survivor wins.
+Space Wars is a space game where astronauts collect gems on a planet and use the gems to buy weapons and fight each other. The more gems you collect the higher ranked weapon you get. You can as well change your space suit. The last survivor wins.
 The game was created on Roblox using LUA and can be played as single player and multiplayer.
 The game starts by an apocalypse on Earth, the players have to get on a rocket on time to survive, when they land on a mysterious planet, they have to fight to survive by collecting gems and buying weapons.
 
